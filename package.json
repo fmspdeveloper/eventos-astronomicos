@@ -1,0 +1,21 @@
+{
+  "name": "eventos-astronomicos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmspdeveloper/eventos-astronomicos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/fmspdeveloper/eventos-astronomicos/issues"
+  },
+  "homepage": "https://github.com/fmspdeveloper/eventos-astronomicos#readme"
+}
